@@ -1,0 +1,97 @@
+### *Unit 1: Introduction to Java ☕*
+* *[00:00:00]* Course Introduction & Roadmap
+* *[00:02:04]* Unit 1 Start: History & Relevance of Java
+* *[00:02:59]* Why Learn Java? (Popularity, Jobs, Usage)
+* *[00:06:54]* What is a Programming Language? (Human vs. Machine Language)
+* *[00:12:48]* What is an Algorithm? (Step-by-step logic)
+* *[00:15:39]* Understanding Syntax (Rules of the language)
+* *[00:18:33]* History of Java (James Gosling, Sun Microsystems, "Oak")
+* *[00:20:14]* *Key Principle:* Write Once, Run Anywhere (WORA)
+* *[00:23:13]* Bytecode & JVM Explained
+* *[00:30:02]* Deep Dive: Source Code → Compiler → Bytecode → JVM
+* *[00:37:26]* Java Buzzwords: Robust, Multithreaded, Secure, Architecture Neutral
+* *[00:44:01]* Introduction to Object-Oriented Programming (OOP) Basics
+
+---
+
+### *Unit 2: Java Basics & Environment Setup 🛠*
+* *[00:48:34]* Unit 2 Start: Java Basics
+* *[00:49:50]* Installing the JDK (Java Development Kit)
+* *[00:55:14]* Writing the First Program (using Text Editor)
+* *[00:59:54]* Compiling (`javac`) and Running (`java`) via Terminal
+* *[01:03:54]* Viewing Bytecode (`.class` file)
+* *[01:06:50]* *Anatomy of a Java Class:* `class`, `public`, `static`, `void`, `main`
+* *[01:13:38]* *The Big Three:* Differences between JDK, JRE, and JVM
+* *[01:22:08]* Displaying Output: `print` vs `println`
+* *[01:27:36]* Importance of the `main` Method
+* *[01:34:04]* What is an IDE? (Integrated Development Environment)
+* *[01:37:48]* Installing IntelliJ IDEA
+* *[01:42:00]* Creating the First Project in IntelliJ
+
+---
+
+### *Unit 3: Data Types, Variables & Input 🔡*
+* *[02:14:01]* Unit 3 Start: Variables & Input
+* *[02:14:34]* What are Variables? (Containers for data)
+* *[02:18:32]* Computer Memory (RAM) & Allocation
+* *[02:24:22]* Variable Declaration & Initialization Syntax
+* *[02:28:10]* *Data Types:* Primitive (int, float, bool, etc.) vs. Non-Primitive
+* *[02:45:33]* Naming Conventions (CamelCase) & Rules (Identifiers)
+* *[02:56:11]* Literals (Fixed values)
+* *[03:00:13]* Keywords (Reserved words in Java)
+* *[03:01:20]* Escape Sequences (`\n`, `\t`, `\"`, etc.)
+* *[03:13:01]* *User Input:* The `Scanner` Class
+* *[03:31:40]* Type Conversion: Implicit vs. Explicit (Casting)
+
+---
+
+### *Unit 4: Operators & Control Flow 🧮*
+* *[03:42:49]* Unit 4 Start: Operators & If-Else
+* *[03:45:23]* Assignment Operator (`=`)
+* *[03:53:38]* *Challenge #7:* Swap Two Numbers
+* *[04:04:03]* Arithmetic Operators (`+`, `-`, `*`, `/`, `%`)
+* *[04:09:05]* Understanding Modulus (`%`)
+* *[04:11:42]* Order of Operations (Precedence/BODMAS)
+* *[04:21:06]* Unary Operators (`-`, `++`, `--`) & Short-hand (`+=`, `-=`)
+* *[05:16:52]* *Control Flow:* `if`, `else`, `else if`
+* *[05:36:29]* Relational Operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+* *[05:48:16]* Logical Operators (`&&`, `||`, `!`)
+* *[05:56:42]* *Challenge:* Positive/Negative/Zero Checker
+* *[06:01:20]* *Challenge:* Odd/Even Checker
+* *[06:07:50]* *Challenge:* Greatest of Three Numbers
+* *[06:18:46]* *Challenge:* Leap Year Calculator
+* *[06:29:12]* *Challenge:* Grading System
+* *[06:34:51]* *Challenge:* Age Categorization
+* *[06:41:42]* Number Systems: Decimal, Binary, Octal, Hexadecimal
+* *[06:51:51]* Bitwise Operators (`&`, `|`, `^`, `~`, `<<`, `>>`)
+
+---
+
+### *Unit 5: Loops, Methods & Arrays 🔄*
+* *[07:24:44]* Unit 5 Start: Loops & Methods
+* *[07:25:07]* Java Comments (Single line, Multi-line, JavaDoc)
+* *[07:32:24]* Introduction to Loops (Why repeat code?)
+* *[07:36:53]* The `while` Loop Syntax & Execution Flow
+* *[07:46:12]* *Methods (Functions):* Definition & Benefits (DRY Principle)
+* *[07:50:52]* Method Syntax (Return type, Name, Body)
+* *[08:00:52]* Calling/Invoking Methods
+* *[08:22:57]* The `return` Statement
+* *[08:36:48]* Parameters vs. Arguments
+* *[08:54:40]* *Challenge:* Multiplication Table (using Loops)
+* *[09:04:03]* *Challenge:* Sum of Odd Numbers
+* *[09:10:23]* *Challenge:* Factorial of a Number
+* *[09:18:56]* *Challenge:* Sum of Digits of an Integer
+* *[09:27:44]* *Challenge:* LCM (Least Common Multiple)
+* *[09:39:22]* *Challenge:* GCD (Greatest Common Divisor)
+* *[09:50:27]* *Challenge:* Prime Number Checker
+* *[09:58:06]* *Challenge:* Reverse the Digits
+* *[10:04:29]* *Challenge:* Fibonacci Series
+* *[10:16:04]* *Challenge:* Armstrong Number
+* *[10:35:02]* *Challenge:* Palindrome Number
+* *[10:44:06]* *Challenge:* Printing Patterns with Loops
+* *[11:02:15]* *Arrays:* Introduction & Memory Representation
+* *[11:14:16]* Array Syntax: Declaration & Initialization
+* *[11:22:43]* Accessing Array Elements & Indexing
+* *[11:27:40]* Array Traversal (Looping through arrays)
+* *[11:39:37]* 2D Arrays (Multi-dimensional Arrays)
+* *[11:50:10]* 2D Array Traversal
