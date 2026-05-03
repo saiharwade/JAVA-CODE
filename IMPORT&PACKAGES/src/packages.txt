@@ -1,0 +1,5 @@
+while making packages there should no similar name class in the same package
+
+you can create same name class in two different package
+
+if you don't know which class to import specifically you can use * to import all the packages.
