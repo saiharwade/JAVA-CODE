@@ -8,6 +8,6 @@ public class Vehicle {
     }
 
     public void commute(){
-        System.out.printf("I am Going From Place A to Place B");
+        System.out.println("I am Going From Place A to Place B");
     }
 }

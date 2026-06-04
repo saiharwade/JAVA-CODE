@@ -1,0 +1,4 @@
+Inheritance types:
+1 Simple Inheritance = Here Child Class only Inheritate From parent class.
+2 Multiple Inheritance = Here child class Inheritate from Two Parent Classes.
+3 Multi Level Inheritance = Here First Child class Inheritate from Parent Class and the First Child Class Gets Inheritated By the sub class of the first child class.
