@@ -13,7 +13,7 @@ public class Reference_objects {
         Vehicle vCar = new Car();
 
         //DownCasting but not recommended
-        Car cVehicle = (Car) new Vehicle();
+        //Car cVehicle = (Car) new Vehicle();
 
         Object ref = new Car();
 
@@ -35,5 +35,10 @@ public class Reference_objects {
         ((Car) veh).noofTyres(); //we say here that veh is Car object so you can access the Car Methods
 
         cVehicle.noofTyres();
+
+        //You can Also Check using
+        if(veh instanceof Car){
+            //And then do the required Activities
+        }
     }
 }
