@@ -22,6 +22,8 @@ public class Calculator {
         }catch(NumberFormatException e) {// | AritheticException){
             //You Can give same output to both Exception
             System.out.println("Multiple Exception");
+        }catch(Throwable th){//Throwable contains al types exception, if any above exception doesn't invokes then we can trigger throwable exception which contains all exception
+            System.out.println("General Exception");
         }
         //So this try Catch Exception Handling tech.
         //It tell's the java to atleast try and check if the code is executable.
