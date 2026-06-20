@@ -1,5 +1,6 @@
 package ExceptionHandling;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Calculator {
@@ -13,9 +14,11 @@ public class Calculator {
         try{
             int[] a = new int[5];
             a[6] = first / Sec;
-            System.out.printf("The Sum is %d", a[6]);
+            int sum = first / Sec;
+            System.out.println("The Sum is" + a + " ," + sum);
         }catch(ArithmeticException exception){
             System.out.printf("%s, enter valid values", exception.getMessage());
+            System.out.println();
             System.out.println("Enter the Valid Number");
         }catch(ArrayIndexOutOfBoundsException exception){
             System.out.println("The Array Don't have the number of index you Entered");
