@@ -1,0 +1,8 @@
+Abstract Keyword: Abstract Class , Abstract Method.
+
+1) Used to declare non-instantiable abstract classes that serve as base classes.
+(Means this abstract class can't have objects. it is just use to inheritate. like we can create vehicle class which could inheritated by two wheeler, four wheeler)
+
+It is Compulsory for the class to be abstract when any of his method is abstract.
+Although it is not complusory for the abstract class to have atleast one abstract class.
+1
