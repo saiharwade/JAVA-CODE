@@ -1,0 +1,8 @@
+Exception Handling is Use to handle some kinds of exception that might get raised while compiling the code.
+
+There are mainly Two types of Exception: User Defined Exception
+                                         Built in Exception
+
+
+In Built Also there are two Types of Exception: Checked Exception
+                                                Unchecked Exception

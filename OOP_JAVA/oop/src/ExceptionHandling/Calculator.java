@@ -25,7 +25,7 @@ public class Calculator {
         }catch(Throwable th){//Throwable contains al types exception, if any above exception doesn't invokes then we can trigger throwable exception which contains all exception
             System.out.println("General Exception");
         }
-        //So this try Catch Exception Handling tech.
+        //So this try Catch Exception Handling tech."[]=-=--
         //It tell's the java to atleast try and check if the code is executable.
         //So it will try and once and if there is an error/Exception then instead of giving an error it will show the mess written inside the catch
 
