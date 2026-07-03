@@ -1,0 +1,23 @@
+The Exception Handing has two types
+
+1. User Defined Exception
+2. Built in Exception
+2.1 Checked Exception: ClassNotFoundException
+                        InterruptedException
+                        IOException
+                        InstantiationException
+                        SQLException
+                        FileNotFoundException
+2.3 Unchecked Exception: ArithmeticException
+                         ClassCastException
+                         NullPointerException
+                         ArrayIndexOutofBoundException
+                         ArrayStoreException
+                         IllegalThreadStateException
+
+One More thing that the checked exceptions are always Compulsory to handle and are not runtime exception unlike unchecked exception.
+
+The Checked Exception are the exception which are compulsory to handle by the programmer or the user who calls the method needs to handle the exception
+whereas the unchecked exception are not compulsory to handle.
+
+IMP: When The Exception Appears the exception creates a new object and then it appears and give us Exception.
