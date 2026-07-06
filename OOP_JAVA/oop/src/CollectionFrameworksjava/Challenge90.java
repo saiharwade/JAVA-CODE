@@ -12,6 +12,7 @@ public class Challenge90 {
 
     public static void sortInDescending(List<String> stringList) {
 
+        //Collections.sort(stringList);
         Collections.sort(stringList, new Comparator<String>() {
 
             @Override
