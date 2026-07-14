@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="118f37d5-ecff-4d5d-bf13-95e28bf557a3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/Challenge89.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/Challenge90.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/Challenge91.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/Challenge92.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/Challenge93.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/Challenge94.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/Challenge95.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/Challenge96.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/Challenge98.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/TestingList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/TestingQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/TestingSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionFrameworksjava/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enums/Challenge97.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enums/Challenge98.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enums/Days.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enums/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enums/TrafficLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/Challenge87.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/CustomExceptio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/Exception.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/ExceptionHandling.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/Finally.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/HeirarchyHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileWriterAndReader/Challenge88.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileWriterAndReader/FileChallenge88.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileWriterAndReader/FileReaderEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileWriterAndReader/FileWriterEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge100/Challenge100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge100/ThreadState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge101/Thread1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge101/ThreadTesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge102/Testing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge102/ThreadTraLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge102/TrafficLights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge103/PrintTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge103/ThreadTesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge99/Challenge99.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge99/ThreadX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcutorServices/MultipleExecutors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcutorServices/PrintTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcutorServices/SingleExecutor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Future/Future.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runnable/PrintTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runnable/RunnableTesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Synchrozation/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Synchrozation/TestSynchronization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Synchrozation/ThreadSync.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestingThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThirdTask.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3GTtyYoca2S8IyJnDmfWWNBiURo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/LANGUAGES/JAVA_CORE/OOP_JAVA/oop/src/MultiThreading",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="118f37d5-ecff-4d5d-bf13-95e28bf557a3" name="Changes" comment="" />
+      <created>1784007641293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784007641293</updated>
+    </task>
+    <servers />
+  </component>
+</project>
