@@ -1,5 +1,22 @@
-while making packages there should no similar name class in the same package
+1)while making packages there should no similar name class in the same package.
 
-you can create same name class in two different package
+2)you can create same name class in two different package
 
-if you don't know which class to import specifically you can use * to import all the packages.
+3)If you don't know which class to import specifically you can use * to import all the packages.
+4)When we access the class in different class but both the class are available in the same package then there is no need to import in the same class.
+5)But if we are access the class of harwadecoding package Car class in saicoding package class then we have to import it in the class.
+6)The package java.lang is by default imported in the class cause it use for multiple times.
+
+7)Types of Access Modifiers : Public, Protected, Default, Private
+
+# public :
+The public members can be accessed from anywhere (if the class is visible/imported).
+
+# default (package-private) :
+When no access modifier is written, it gets default access.
+It can be accessed only within the same package.
+
+# private :
+The private members can be accessed only inside the same class, not from outside directly.
+
+#IMP NOTE = You can't define a class as private it could be either public or default.

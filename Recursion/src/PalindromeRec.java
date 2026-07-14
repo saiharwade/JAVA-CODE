@@ -1,5 +1,1 @@
-public class PalindromeRec {
-    public static void main(String[]args){
-        
-    }
-}
+

@@ -1,4 +1,4 @@
-package com.example.geometry;
+package com.utils;
 import java.lang.Math; // the lang package is by default imported in every code so no need to import explecitly
 public class Circle {
     public double radius;

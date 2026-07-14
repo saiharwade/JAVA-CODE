@@ -1,0 +1,11 @@
+there 4 types of modifiers
+
+
+Restriction goes from top to bottom
+
+Private -
+Default -
+Protected -
+Public
+
+When we Default Mod then only those classes can Access that default class which are present in the same class

@@ -19,9 +19,9 @@ class Sting_class{
 
         if(ex1.equals(ex2)){
             System.out.print("true");
-
         }
-        System.out.print(new1[1]);
-        // so here when we compare the two objects then we have to write with using equals() method.
+        else {
+            System.out.print("False");
+        }// so here when we compare the two objects then we have to write with using equals() method.
     }
 }

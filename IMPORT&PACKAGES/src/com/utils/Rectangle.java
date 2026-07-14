@@ -1,4 +1,4 @@
-package com.example.geometry;
+package com.utils;
 
 public class Rectangle {
     public double len;
